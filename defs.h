@@ -1,0 +1,24 @@
+#define TRUE 1
+#define SAME 0
+#define FALSE -1
+#define NUMCOMMAND 8
+#define COMMAND_MAXSIZE 10
+#define FAILED 0
+#define SIGNUP 0
+#define LOGIN 1
+#define LOGOUT 2
+#define POST 3
+#define LIKE 4
+#define DELETE 5
+#define INFO 6
+#define FIND 7
+#define LOWER_REGISTER 16
+#define UPPER_REGISTER 128
+#define LOWER_TEXT 64
+#define UPPER_TEXT 4096
+#define REGISTER_MODE 1
+#define TEXT_MODE 2
+#define DONE 1
+#define CLEAR_MEM 257 // invalid ASCII
+#define ACC_FILE_ADDRESS "accounts.txt"
+#define POST_FILE_ADDRESS "posts.txt"

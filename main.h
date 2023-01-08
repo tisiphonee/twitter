@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "struct.h"
+#include "defs.h"
+#include "export_to_file.h"
+#include "info.h"
+#include "memoryalloc.h"
+#include "post.h"
+#include "register.h"
