@@ -1,1 +1,1 @@
-an offline messanger with linked lists.
+#an offline messanger with linked lists.
